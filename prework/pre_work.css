@@ -1,0 +1,98 @@
+h1,
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  position: relative;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+  padding: 0.5rem 0;
+}
+p {
+  font-family: sans-serif;
+  font-size: 16px;
+  display: block;
+  margin: 5 auto;
+  padding: 0.5rem 0;
+}
+body {
+  background-color: #355070;
+  color: whitesmoke;
+  padding: 0.5rem 0;
+}
+a:visted {
+  color: black;
+  text-decoration: underline;
+}
+a {
+  color: whitesmoke;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+img {
+  max-width: 40%;
+  height: auto;
+  position: relative;
+}
+form {
+  display: block;
+}
+fieldset {
+  border: none;
+  padding: 0.5rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+#facts {
+  border: none;
+  padding: 1.5rem 0;
+  border-bottom: 3px solid #3b3b4f;
+  padding-top: 0;
+}
+
+#like {
+  border: none;
+  padding: 1.5rem 0;
+  border-top: 3px solid #3b3b4f;
+}
+button[type="submit"] {
+  display: block;
+  width: 20%;
+  margin: auto;
+  height: auto;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  color: white;
+}
+.piece {
+  margin-left: 0%;
+}
+div {
+  position: static;
+}
+#eric {
+  padding-left: 30%;
+  height: auto;
+  position: relative;
+}
+
+#watch_one {
+  position: fixed;
+  left: 80%;
+  border: solid black;
+  padding-left: 1%;
+}
